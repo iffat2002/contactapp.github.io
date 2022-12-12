@@ -1,0 +1,33 @@
+.header-styles {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.addContact-styles {
+    padding: 17px;
+    width: 500px;
+    margin: auto;
+    margin-top: 60px; 
+}
+
+.trash-styles {
+    display: flex;
+}
+
+/* .inputField-styles {
+    border: 2px solid pink;
+    border-radius: 0.5rem;
+    background: none;
+    outline: none;
+    color: palevioletred;
+
+        &:hover{
+            border-color: yellow;
+        }
+
+        &:focus{
+            border-color: aqua;
+        }
+
+} */
